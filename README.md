@@ -83,7 +83,7 @@ npm run dev
 
 ### 4. Open the application
 
-Open the URL displayed in the terminal (usually http://localhost:5173).
+https://clever-ai-buddy-93.lovable.app/
 
 ## Future Improvements
 
