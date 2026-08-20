@@ -65,7 +65,7 @@ The application demonstrates responsive web design, component-based architecture
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-workplace-productivity-assistant.git
+git clone:  https://github.com/entle-myezo/ai-workplace-productivity-assistant.git
 cd ai-workplace-productivity-assistant
 ```
 
